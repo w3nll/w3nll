@@ -1,12 +1,12 @@
 -  Hi, I’m Wendell
 -  I’m currently learning the language code python
--  How to reach me in my email 
+-  How to reach me: wendellpyedro@gmail.com
 -  Pronouns: he/him 
 -  Languages: English and portuguese
 
 -  Olá, me chamo Wendell
 -  Atualmente estou estudando a linguagem de programação python
--  email de contato :
+-  email de contato : wendellpyedro@gmail.com
 -  pronomes: ele
 -  Linguas: ingles e portugues
 <!---
